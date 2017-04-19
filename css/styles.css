@@ -1,0 +1,91 @@
+/*debugging*/
+/** {
+    border: 1px solid red;
+}*/
+
+/*
+
+container and columns
+
+*/
+
+.container {
+    font-family: 'Lato', sans-serif;
+}
+
+.col-md-4 {
+    color: #2d3c49;
+    text-align: center;;
+}
+
+/*
+
+spacer and sections
+
+*/
+
+.spacer {
+    min-height: 3em;
+}
+
+.header {
+    text-align: right;
+    color: #2d3c49;
+}
+
+.divider {
+    border: 2px solid #7d97ad;
+    box-shadow: 0 0 3px #7d97ad;
+}
+
+.featured {
+    color: #7d97ad;
+    margin-top: 2em;
+    margin-left: 1em;
+    letter-spacing: .2em;
+}
+
+/*
+
+image stylings
+
+*/
+
+.big-cat-pic{
+    width: 100%;
+}
+
+
+.cat-app-pic {
+    width: 100%;
+}
+
+/*
+
+header and link stylings
+
+*/
+
+h1, h3, h4 {
+    text-transform: uppercase;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 64px;
+    margin-top: 0;
+}
+
+
+h3 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+h4 {
+    font-size: 36px;
+}
+
+a:link{
+    color: inherit;
+}
